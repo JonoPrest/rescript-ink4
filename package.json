@@ -1,0 +1,19 @@
+{
+  "name": "rescript-ink4",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "clean": "rescript clean",
+    "build": "rescript build",
+    "watch": "rescript build -w"
+  },
+  "keywords": [
+    "ReScript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "rescript": "^11.0.1",
+    "@rescript/react": "^0.12.1"
+  }
+}
